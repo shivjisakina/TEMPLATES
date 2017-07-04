@@ -1,0 +1,28 @@
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-image: url(../???/???.png);
+    background-size: cover;
+}
+
+img {
+    width: 180px;
+    height: 180px;
+}
+
+/*
+
+FREQUENTLY USED CSS STYLE TAGS FOR REFERENCE:
+
+margin: 10px;
+border: 10px;
+float: left
+font-size: 25px;
+text-align: center;
+opacity: .6;
+background-color: black;
+
+*/
